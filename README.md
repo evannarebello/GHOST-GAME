@@ -1,1 +1,1 @@
-# GHOST-GAME
+# ghost-tower
